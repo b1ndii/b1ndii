@@ -1,1 +1,1 @@
-Hi, I’m Bind, a student at JCoders, focused on improving my coding skills and learning more about software development.
+Hi, I’m Bind, a student at JCoders. I’m passionate about improving my coding skills and expanding my knowledge in software development. I’m always eager to learn new concepts and take on challenges that help me grow as a programmer.
